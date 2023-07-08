@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="seveni90spi" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_24XQCTRONLY_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_2X7I65_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_3x7I65_1x7I44_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_4x7I65_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I74x2_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I74x4_68</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I76_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I76_7I74_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I76x2_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I76x2_7I74x2_68</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I76x3_68</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I76x3_7I74_68</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I77E_51</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I77_7I74_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I77_7I76_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I77x2_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I77x2_7I74x2_68</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I77x4_68</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I78_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I78x2_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I85Sx2_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_7I85x2_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_Andy1_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_BISSTEST_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_BOSSV</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_DA2_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_DA2_ADO_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_FALLBACK_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_G540x2_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_IOONLY_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_JUSTIO_68</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_JUSTIO_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_PROB_RFx2_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_RMSVSS6_12_8_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_RMSVSS6_6_8_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_RMSVSS6_8_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_RS12_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_RSST12_8_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SISVST6_2_3_7I47_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SPSVST_7I47_7I65_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SSSV6_36_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SSSV8_48_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_ST12_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_ST16_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_ST18_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_ST20_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_ST24_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_ST48_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_STSV6_1_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SV12IM_2X7I48_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SV12IM_2X7I49_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SV12_3X7I47_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SV12_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SV16_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SV24_144</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SV6_7I49_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SV8NA</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SV8_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVRM6_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSP4_6_7I46NA_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSP6_2_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSP8_6_7I46_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSPD6_2_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSS4_4_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSS4_8_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSS6_6_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSS6_8_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSS6_8_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSS8_16_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSS8_8_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST12_12_2X7I48_2X7I47_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST12_12_2X7I48_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST16_24_144</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST1_4_7I47SD_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST1_4_7I47S_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST2_4_7I47D_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST2_4_7I47_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST2_4_7I47_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST2_8_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST2_8_GREG_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST4_12NA_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST4_12_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST4_4IM2SI_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST4_4NA_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST4_4_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST4_6NA_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST4_6_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST4_8_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST4_8_ADO_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST6_6_7I48_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST6_6_7I48_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST6_6_7I52SD_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST6_6_7I52S_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST6_6_7I52S_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST8_12_2x7I47_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST8_24_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST8_3P_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST8_4IM2SI_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST8_4IM2_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST8_4P_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST8_4_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVST8_8IM2_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSTSP8_12_6_96</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSTTP6_6_7I39_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSTUA6_6_6_7I48_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVSTUA6_6_8_7I48_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVTP4_7I39_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVTW4_1_10_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVTW4_24_24_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVTW8_24_24_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVUA4_8_48</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVUA8_4_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVUA8_8_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVWG8_2IM2_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SVWG8_8IM2_72</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_SYIL1_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/PIN_UA2_34</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/SixI25_x9card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/ahostmot2 - HostMot2 - dataflow</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/decodedstrobe2</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i20card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i22_1500card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i23card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i25_x9card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i43_200card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i43_400card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i61_x16card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i61_x25card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i65card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i68card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i69_x16card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i77e_x9card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i80db_x16card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i80db_x25card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/i90_x9card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/parity</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/x20_1000card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/x20_1500card</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd/x20_2000card</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>parity (/home/kaklik/7i90/configs/hostmot2/source/hostmot2/parity.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >99</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000024a000000020000000000000000000000000200000064ffffffff0000008100000003000000020000024a0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>parity (/home/kaklik/7i90/configs/hostmot2/source/hostmot2/parity.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001fc000000010000000100000000000000000000000064ffffffff000000810000000000000001000001fc0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000005a8000000040101000100000000000000000000000064ffffffff0000008100000000000000040000011c0000000100000000000000d60000000100000000000000840000000100000000000003320000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>7i90spi.ucf</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000125000000010001000100000000000000000000000064ffffffff000000810000000000000001000001250000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001510000012001000000060100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/PIN_24XQCTRONLY_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_24XQCTRONLY_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_2X7I65_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_2X7I65_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_3x7I65_1x7I44_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_3x7I65_1x7I44_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_4x7I65_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_4x7I65_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I74x2_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I74x2_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I74x4_68 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I74x4_68.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I76_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I76_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I76_7I74_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I76_7I74_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I76x2_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I76x2_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I76x2_7I74x2_68 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I76x2_7I74x2_68.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I76x3_68 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I76x3_68.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I76x3_7I74_68 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I76x3_7I74_68.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I77E_51 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I77E_51.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I77_7I74_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I77_7I74_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I77_7I76_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I77_7I76_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I77x2_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I77x2_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I77x2_7I74x2_68 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I77x2_7I74x2_68.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I77x4_68 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I77x4_68.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I78_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I78_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I78x2_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I78x2_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I85Sx2_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I85Sx2_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_7I85x2_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_7I85x2_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_Andy1_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_Andy1_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_BISSTEST_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_BISSTEST_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_BOSSV |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_BOSSV.vhd</ClosedNode>
+         <ClosedNode>/PIN_DA2_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_DA2_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_DA2_ADO_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_DA2_ADO_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_FALLBACK_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_FALLBACK_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_G540x2_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_G540x2_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_IOONLY_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_IOONLY_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_JUSTIO_68 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_JUSTIO_68.vhd</ClosedNode>
+         <ClosedNode>/PIN_JUSTIO_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_JUSTIO_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_PROB_RFx2_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_PROB_RFx2_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_RMSVSS6_12_8_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_RMSVSS6_12_8_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_RMSVSS6_6_8_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_RMSVSS6_6_8_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_RMSVSS6_8_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_RMSVSS6_8_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_RS12_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_RS12_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_RSST12_8_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_RSST12_8_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_SISVST6_2_3_7I47_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SISVST6_2_3_7I47_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SPSVST_7I47_7I65_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SPSVST_7I47_7I65_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SSSV6_36_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SSSV6_36_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_SSSV8_48_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SSSV8_48_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_ST12_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_ST12_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_ST16_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_ST16_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_ST18_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_ST18_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_ST20_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_ST20_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_ST24_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_ST24_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_ST48_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_ST48_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_STSV6_1_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_STSV6_1_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_SV12IM_2X7I48_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SV12IM_2X7I48_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SV12IM_2X7I49_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SV12IM_2X7I49_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SV12_3X7I47_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SV12_3X7I47_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SV12_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SV12_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SV16_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SV16_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_SV24_144 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SV24_144.vhd</ClosedNode>
+         <ClosedNode>/PIN_SV6_7I49_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SV6_7I49_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SV8NA |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SV8NA.vhd</ClosedNode>
+         <ClosedNode>/PIN_SV8_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SV8_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVRM6_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVRM6_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSP4_6_7I46NA_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSP4_6_7I46NA_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSP6_2_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSP6_2_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSP8_6_7I46_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSP8_6_7I46_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSPD6_2_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSPD6_2_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSS4_4_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSS4_4_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSS4_8_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSS4_8_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSS6_6_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSS6_6_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSS6_8_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSS6_8_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSS6_8_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSS6_8_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSS8_16_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSS8_16_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSS8_8_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSS8_8_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST12_12_2X7I48_2X7I47_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST12_12_2X7I48_2X7I47_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST12_12_2X7I48_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST12_12_2X7I48_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST16_24_144 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST16_24_144.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST1_4_7I47SD_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST1_4_7I47SD_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST1_4_7I47S_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST1_4_7I47S_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST2_4_7I47D_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST2_4_7I47D_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST2_4_7I47_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST2_4_7I47_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST2_4_7I47_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST2_4_7I47_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST2_8_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST2_8_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST2_8_GREG_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST2_8_GREG_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST4_12NA_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST4_12NA_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST4_12_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST4_12_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST4_4IM2SI_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST4_4IM2SI_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST4_4NA_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST4_4NA_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST4_4_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST4_4_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST4_6NA_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST4_6NA_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST4_6_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST4_6_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST4_8_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST4_8_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST4_8_ADO_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST4_8_ADO_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST6_6_7I48_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST6_6_7I48_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST6_6_7I48_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST6_6_7I48_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST6_6_7I52SD_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST6_6_7I52SD_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST6_6_7I52S_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST6_6_7I52S_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST6_6_7I52S_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST6_6_7I52S_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST8_12_2x7I47_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST8_12_2x7I47_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST8_24_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST8_24_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST8_3P_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST8_3P_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST8_4IM2SI_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST8_4IM2SI_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST8_4IM2_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST8_4IM2_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST8_4P_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST8_4P_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST8_4_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST8_4_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVST8_8IM2_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVST8_8IM2_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSTSP8_12_6_96 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSTSP8_12_6_96.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSTTP6_6_7I39_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSTTP6_6_7I39_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSTUA6_6_6_7I48_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSTUA6_6_6_7I48_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVSTUA6_6_8_7I48_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVSTUA6_6_8_7I48_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVTP4_7I39_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVTP4_7I39_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVTW4_1_10_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVTW4_1_10_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVTW4_24_24_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVTW4_24_24_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVTW8_24_24_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVTW8_24_24_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVUA4_8_48 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVUA4_8_48.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVUA8_4_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVUA8_4_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVUA8_8_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVUA8_8_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVWG8_2IM2_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVWG8_2IM2_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SVWG8_8IM2_72 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SVWG8_8IM2_72.vhd</ClosedNode>
+         <ClosedNode>/PIN_SYIL1_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_SYIL1_34.vhd</ClosedNode>
+         <ClosedNode>/PIN_UA2_34 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|PIN_UA2_34.vhd</ClosedNode>
+         <ClosedNode>/SixI25_x9card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|Sixi25_x9card.vhd</ClosedNode>
+         <ClosedNode>/TopGCSPIHostMot2 - Behavioral |home|kaklik|7i90|configs|hostmot2|source|hostmot2|TopGCSPIHostMot2.vhd</ClosedNode>
+         <ClosedNode>/decodedstrobe2 |home|kaklik|7i90|configs|hostmot2|source|hostmot2|decodedstrobe2.vhd</ClosedNode>
+         <ClosedNode>/i20card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i20card.vhd</ClosedNode>
+         <ClosedNode>/i22_1500card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i22_1500card.vhd</ClosedNode>
+         <ClosedNode>/i23card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i23card.vhd</ClosedNode>
+         <ClosedNode>/i25_x9card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i25_x9card.vhd</ClosedNode>
+         <ClosedNode>/i43_200card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i43_200card.vhd</ClosedNode>
+         <ClosedNode>/i43_400card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i43_400card.vhd</ClosedNode>
+         <ClosedNode>/i61_x16card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i61_x16card.vhd</ClosedNode>
+         <ClosedNode>/i61_x25card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i61_x25card.vhd</ClosedNode>
+         <ClosedNode>/i65card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i65card.vhd</ClosedNode>
+         <ClosedNode>/i68card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i68card.vhd</ClosedNode>
+         <ClosedNode>/i69_x16card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i69_x16card.vhd</ClosedNode>
+         <ClosedNode>/i77e_x9card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i77e_x9card.vhd</ClosedNode>
+         <ClosedNode>/i80db_x16card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i80db_x16card.vhd</ClosedNode>
+         <ClosedNode>/i80db_x25card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i80db_x25card.vhd</ClosedNode>
+         <ClosedNode>/i90_x9card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|i90_x9card.vhd</ClosedNode>
+         <ClosedNode>/parity |home|kaklik|7i90|configs|hostmot2|source|hostmot2|parity.vhd</ClosedNode>
+         <ClosedNode>/x20_1000card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|x20_1000card.vhd</ClosedNode>
+         <ClosedNode>/x20_1500card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|x20_1500card.vhd</ClosedNode>
+         <ClosedNode>/x20_2000card |home|kaklik|7i90|configs|hostmot2|source|hostmot2|x20_2000card.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Unassigned User Library Modules</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000236000000020000000000000000000000000200000064ffffffff000000810000000300000002000002360000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001fc000000010000000100000000000000000000000064ffffffff000000810000000000000001000001fc0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_PACKAGE_BODY" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001fc000000010000000100000000000000000000000064ffffffff000000810000000000000001000001fc0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+</Project>

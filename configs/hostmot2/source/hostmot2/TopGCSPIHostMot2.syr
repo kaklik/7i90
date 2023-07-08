@@ -1,0 +1,377 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> 
+Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> 
+Reading design: TopGCSPIHostMot2.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "TopGCSPIHostMot2.prj"
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "TopGCSPIHostMot2"
+Output Format                      : NGC
+Target Device                      : xc6slx9-2-tqg144
+
+---- Source Options
+Top Module Name                    : TopGCSPIHostMot2
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Shift Register Extraction          : YES
+ROM Style                          : Auto
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Shift Register Minimum Size        : 2
+Use DSP Block                      : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+LUT Combining                      : Auto
+Reduce Control Sets                : Auto
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 16
+Register Duplication               : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Auto
+Use Synchronous Set                : Auto
+Use Synchronous Reset              : Auto
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Power Reduction                    : NO
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : Offset_Out_After
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+DSP48 Utilization Ratio            : 100
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+ERROR:HDLCompiler:1206 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 82: Syntax error near '@'
+ERROR:HDLCompiler:1206 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 82: Syntax error near '@'
+ERROR:HDLCompiler:1206 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 82: Syntax error near '@'
+ERROR:HDLCompiler:1206 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 82: Syntax error near '@'
+ERROR:HDLCompiler:1206 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 86: Syntax error near '@'
+ERROR:HDLCompiler:1206 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 86: Syntax error near '@'
+ERROR:HDLCompiler:1206 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 86: Syntax error near '@'
+ERROR:HDLCompiler:1206 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 86: Syntax error near '@'
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/log2.vhd" into library work
+Parsing package <log2>.
+Parsing package body <log2>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/dpram.vhd" into library work
+Parsing entity <dpram>.
+Parsing architecture <syn> of entity <dpram>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/adpram.vhd" into library work
+Parsing entity <adpram>.
+Parsing architecture <syn> of entity <adpram>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/waveram.vhd" into library work
+Parsing entity <waveram>.
+Parsing architecture <syn> of entity <waveram>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/uartx8.vhd" into library work
+Parsing entity <uartx8>.
+Parsing architecture <Behavioral> of entity <uartx8>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/uartr8.vhd" into library work
+Parsing entity <uartr8>.
+Parsing architecture <Behavioral> of entity <uartr8>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/twidrom.vhd" into library work
+Parsing entity <twidrom>.
+Parsing architecture <syn> of entity <twidrom>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/syncwavegen.vhd" into library work
+Parsing entity <syncwavegen>.
+Parsing architecture <behavioral> of entity <syncwavegen>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/sslbprom43.vhd" into library work
+Parsing entity <sslbp>.
+Parsing architecture <syn> of entity <sslbp>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/sslbpram.vhd" into library work
+Parsing entity <sslbpram>.
+Parsing architecture <syn> of entity <sslbpram>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/sine16.vhd" into library work
+Parsing entity <sine16>.
+Parsing architecture <syn> of entity <sine16>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/resrom.vhd" into library work
+Parsing entity <resrom>.
+Parsing architecture <syn> of entity <resrom>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/resolverdaq2.vhd" into library work
+Parsing entity <resolverdaq2>.
+Parsing architecture <behavioral> of entity <resolverdaq2>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/OutputInteg.vhd" into library work
+Parsing entity <OutputInteg>.
+Parsing architecture <Behavioral> of entity <outputinteg>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/oneofndecode.vhd" into library work
+Parsing package <oneofndecode>.
+Parsing package body <oneofndecode>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/IDROMConst.vhd" into library work
+Parsing package <IDROMConst>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/decodedstrobe.vhd" into library work
+Parsing package <decodedstrobe>.
+Parsing package body <decodedstrobe>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/d8o8sqws.vhd" into library work
+Parsing entity <DumbAss8sqws>.
+Parsing architecture <Behavioral> of entity <dumbass8sqws>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/b32qcondmac2ws.vhd" into library work
+Parsing entity <Big32v2>.
+Parsing architecture <Behavioral> of entity <big32v2>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/wordrb.vhd" into library work
+Parsing entity <wordrb>.
+Parsing architecture <behavioral> of entity <wordrb>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/wordpr.vhd" into library work
+Parsing entity <wordpr>.
+Parsing architecture <behavioral> of entity <wordpr>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/wavegen.vhd" into library work
+Parsing entity <wavegen>.
+Parsing architecture <behavioral> of entity <wavegen>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/watchdog.vhd" into library work
+Parsing entity <watchdog>.
+Parsing architecture <Behavioral> of entity <watchdog>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/ubrategend.vhd" into library work
+Parsing entity <rategend>.
+Parsing architecture <Behavioral> of entity <rategend>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/ubrategen.vhd" into library work
+Parsing entity <rategen>.
+Parsing architecture <Behavioral> of entity <rategen>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/uartx.vhd" into library work
+Parsing entity <uartx>.
+Parsing architecture <Behavioral> of entity <uartx>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/uartr.vhd" into library work
+Parsing entity <uartr>.
+Parsing architecture <Behavioral> of entity <uartr>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/twiddle.vhd" into library work
+Parsing entity <twiddle>.
+Parsing architecture <Behavioral> of entity <twiddle>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/timestamp.vhd" into library work
+Parsing entity <timestamp>.
+Parsing architecture <Behavioral> of entity <timestamp>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/threephasepwm.vhd" into library work
+Parsing entity <threephasepwm>.
+Parsing architecture <behavioral> of entity <threephasepwm>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/sserialwa.vhd" into library work
+Parsing entity <sserialwa>.
+Parsing architecture <Behavioral> of entity <sserialwa>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/srl16delay.vhd" into library work
+Parsing entity <srl16delay>.
+Parsing architecture <Behavioral> of entity <srl16delay>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/simplessi.vhd" into library work
+Parsing entity <SimpleSSI>.
+Parsing architecture <Behavioral> of entity <simplessi>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/simplespix.vhd" into library work
+Parsing entity <simplespi>.
+Parsing architecture <behavioral> of entity <simplespi>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/scalertimer.vhd" into library work
+Parsing entity <scalertimer>.
+Parsing architecture <Behavioral> of entity <scalertimer>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/scalercounter.vhd" into library work
+Parsing entity <scalercounter>.
+Parsing architecture <Behavioral> of entity <scalercounter>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/resolver.vhd" into library work
+Parsing entity <resolver>.
+Parsing architecture <dataflow> of entity <resolver>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/qcountersfpd.vhd" into library work
+Parsing entity <qcounterpd>.
+Parsing architecture <behavioral> of entity <qcounterpd>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/qcountersfp.vhd" into library work
+Parsing entity <qcounterp>.
+Parsing architecture <behavioral> of entity <qcounterp>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/qcountersfd.vhd" into library work
+Parsing entity <qcounterd>.
+Parsing architecture <behavioral> of entity <qcounterd>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/qcountersf.vhd" into library work
+Parsing entity <qcounter>.
+Parsing architecture <behavioral> of entity <qcounter>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/qcounterateskd.vhd" into library work
+Parsing entity <qcounterateskd>.
+Parsing architecture <Behavioral> of entity <qcounterateskd>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/qcounteratesk.vhd" into library work
+Parsing entity <qcounteratesk>.
+Parsing architecture <Behavioral> of entity <qcounteratesk>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/qcounterated.vhd" into library work
+Parsing entity <qcounterated>.
+Parsing architecture <Behavioral> of entity <qcounterated>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/qcounterate.vhd" into library work
+Parsing entity <qcounterate>.
+Parsing architecture <Behavioral> of entity <qcounterate>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/pwmrefh.vhd" into library work
+Parsing entity <pwmrefh>.
+Parsing architecture <behavioral> of entity <pwmrefh>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/pwmpdmgenh.vhd" into library work
+Parsing entity <pwmpdmgenh>.
+Parsing architecture <behavioral> of entity <pwmpdmgenh>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/pktuartx.vhd" into library work
+Parsing entity <pktuartx>.
+Parsing architecture <Behavioral> of entity <pktuartx>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/pktuartr.vhd" into library work
+Parsing entity <pktuartr>.
+Parsing architecture <Behavioral> of entity <pktuartr>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/PinExists.vhd" into library work
+Parsing package <PinExists>.
+Parsing package body <PinExists>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/NumberOfModules.vhd" into library work
+Parsing package <NumberOfModules>.
+Parsing package body <NumberOfModules>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/ModuleExists.vhd" into library work
+Parsing package <ModuleExists>.
+Parsing package body <ModuleExists>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/MaxPinsPerModule.vhd" into library work
+Parsing package <MaxPinsPerModule>.
+Parsing package body <MaxPinsPerModule>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/MaxOutputPinsPerModule.vhd" into library work
+Parsing package <MaxOutputPinsPerModule>.
+Parsing package body <MaxOutputPinsPerModule>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/MaxIOPinsPerModule.vhd" into library work
+Parsing package <MaxIOPinsPerModule>.
+Parsing package body <MaxIOPinsPerModule>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/MaxInputPinsPerModule.vhd" into library work
+Parsing package <MaxInputPinsPerModule>.
+Parsing package body <MaxInputPinsPerModule>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/kubstepgenzid.vhd" into library work
+Parsing entity <stepgenid>.
+Parsing architecture <Behavioral> of entity <stepgenid>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/kubstepgenzi.vhd" into library work
+Parsing entity <stepgeni>.
+Parsing architecture <Behavioral> of entity <stepgeni>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/kubstepgenzd.vhd" into library work
+Parsing entity <stepgend>.
+Parsing architecture <Behavioral> of entity <stepgend>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/kubstepgenz.vhd" into library work
+Parsing entity <stepgen>.
+Parsing architecture <Behavioral> of entity <stepgen>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/irqlogics.vhd" into library work
+Parsing entity <irqlogics>.
+Parsing architecture <Behavioral> of entity <irqlogics>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/InputPinsPerModule.vhd" into library work
+Parsing package <InputPinsPerModule>.
+Parsing package body <InputPinsPerModule>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/idrom.vhd" into library work
+Parsing entity <IDROM>.
+Parsing architecture <syn> of entity <idrom>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/hostmotid.vhd" into library work
+Parsing entity <hostmotid>.
+Parsing architecture <Behavioral> of entity <hostmotid>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/hmtimers.vhd" into library work
+Parsing entity <hm2dpll>.
+Parsing architecture <behavioral> of entity <hm2dpll>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/fanucabs.vhd" into library work
+Parsing entity <FanucAbs>.
+Parsing architecture <Behavioral> of entity <fanucabs>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/drqlogic.vhd" into library work
+Parsing entity <dmdrqlogic>.
+Parsing architecture <Behavioral> of entity <dmdrqlogic>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/daqfifo16.vhd" into library work
+Parsing entity <DAQFIFO16>.
+Parsing architecture <Behavioral> of entity <daqfifo16>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/CountPinsInRange.vhd" into library work
+Parsing package <CountPinsInRange>.
+Parsing package body <CountPinsInRange>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/bufferedspi.vhd" into library work
+Parsing entity <bufferedspi>.
+Parsing architecture <behavioral> of entity <bufferedspi>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/boutreg.vhd" into library work
+Parsing entity <boutreg>.
+Parsing architecture <Behavioral> of entity <boutreg>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/biss.vhd" into library work
+Parsing entity <biss>.
+Parsing architecture <Behavioral> of entity <biss>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/binosc.vhd" into library work
+Parsing entity <binosc>.
+Parsing architecture <Behavioral> of entity <binosc>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/simplespi8x.vhd" into library work
+Parsing entity <simplespi8>.
+Parsing architecture <behavioral> of entity <simplespi8>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/hostmot2.vhd" into library work
+Parsing entity <HostMot2>.
+Parsing architecture <dataflow> of entity <hostmot2>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/fixicap.vhd" into library work
+Parsing package <FixICap>.
+Parsing package body <fixicap>.
+Parsing VHDL file "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" into library work
+ERROR:HDLCompiler:806 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 82: Syntax error near "@".
+ERROR:HDLCompiler:806 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 86: Syntax error near "@".
+Parsing entity <TopGCSPIHostMot2>.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 133: <pindesc> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 134: <moduleid> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 152: <ledcount> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 153: <iowidth> is not declared.
+ERROR:HDLCompiler:854 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 130: Unit <topgcspihostmot2> ignored due to previous errors.
+Parsing architecture <Behavioral> of entity <topgcspihostmot2>.
+ERROR:HDLCompiler:374 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 168: Entity <topgcspihostmot2> is not yet compiled.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 170: <std_logic_vector> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 171: <std_logic_vector> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 173: <real> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 174: <std_logic_vector> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 175: <std_logic_vector> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 176: <std_logic_vector> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 177: <std_logic> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 178: <std_logic> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 179: <std_logic> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 180: <std_logic> is not declared.
+ERROR:HDLCompiler:69 - "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.vhd" Line 182: <std_logic> is not declared.
+Sorry, too many errors..
+--> 
+
+
+Total memory usage is 339624 kilobytes
+
+Number of errors   :   27 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

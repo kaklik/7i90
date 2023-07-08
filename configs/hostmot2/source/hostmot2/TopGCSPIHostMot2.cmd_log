@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.xst" -ofn "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.syr" 
+xst -intstyle ise -ifn "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.xst" -ofn "/home/kaklik/7i90/configs/hostmot2/source/hostmot2/TopGCSPIHostMot2.syr" 

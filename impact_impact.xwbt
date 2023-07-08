@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/kaklik/7i90/impact.xsl
+OUTFILE=/home/kaklik/7i90/impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=/home/kaklik/7i90
+LICENSE=iMPACT
+USER_INFO=iMPACT
